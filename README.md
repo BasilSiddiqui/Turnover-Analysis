@@ -10,6 +10,19 @@ Employee turnover is a critical metric for organizations because high turnover c
 
 ---
 
+# Dashboard Preview
+
+## Workforce Overview
+![Workforce Overview](Images/T1.png)
+
+## Turnover Analysis
+![Turnover Analysis](Images/T2.png)
+
+## Department Insights
+![Department Insights](Images/T3.png)
+
+---
+
 # Dataset Structure
 
 The dataset represents employee records and includes the following columns:
