@@ -18,7 +18,7 @@ Employee turnover is a critical metric for organizations because high turnover c
 ## Turnover Analysis
 ![Turnover Analysis](Images/T2.png)
 
-## Department Insights
+## Separation Reasons
 ![Department Insights](Images/T3.png)
 
 ---
